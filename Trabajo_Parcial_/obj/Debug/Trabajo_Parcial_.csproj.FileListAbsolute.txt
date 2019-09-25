@@ -1,0 +1,54 @@
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\FUNDAMENTOS\Trabajo Parcial\Trabajo_Parcial_\Trabajo_Parcial_\bin\Debug\Trabajo_Parcial_.exe.config
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\FUNDAMENTOS\Trabajo Parcial\Trabajo_Parcial_\Trabajo_Parcial_\bin\Debug\Trabajo_Parcial_.exe
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\FUNDAMENTOS\Trabajo Parcial\Trabajo_Parcial_\Trabajo_Parcial_\bin\Debug\Trabajo_Parcial_.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\FUNDAMENTOS\Trabajo Parcial\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\FUNDAMENTOS\Trabajo Parcial\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.Form1.resources
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\FUNDAMENTOS\Trabajo Parcial\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.frm_Actualizar_lista.resources
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\FUNDAMENTOS\Trabajo Parcial\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.frm_Agregar_cliente.resources
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\FUNDAMENTOS\Trabajo Parcial\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.frm_Inicio_sesion.resources
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\FUNDAMENTOS\Trabajo Parcial\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.frm_Lista_productos.resources
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\FUNDAMENTOS\Trabajo Parcial\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.frm_Pedidos_clientes.resources
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\FUNDAMENTOS\Trabajo Parcial\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.frm_Sesion_Administrador.resources
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\FUNDAMENTOS\Trabajo Parcial\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.frm_Sesion_Usuario.resources
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\FUNDAMENTOS\Trabajo Parcial\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.Properties.Resources.resources
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\FUNDAMENTOS\Trabajo Parcial\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\FUNDAMENTOS\Trabajo Parcial\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.exe
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\FUNDAMENTOS\Trabajo Parcial\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\FUNDAMENTOS\Trabajo Parcial\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.frm_Inicio_sesion_cliente.resources
+C:\Users\Alumnos\Documents\checho\Trabajo_Parcial_\Trabajo_Parcial_\bin\Debug\Trabajo_Parcial_.exe.config
+C:\Users\Alumnos\Documents\checho\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.exe
+C:\Users\Alumnos\Documents\checho\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.pdb
+C:\Users\Alumnos\Documents\checho\checho\Trabajo_Parcial_\Trabajo_Parcial_\bin\Debug\Trabajo_Parcial_.exe.config
+C:\Users\Alumnos\Documents\checho\checho\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.exe
+C:\Users\Alumnos\Documents\checho\checho\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.pdb
+C:\Users\Alumnos\Documents\checho\checho\Trabajo_Parcial_\Trabajo_Parcial_\bin\Debug\Trabajo_Parcial_.exe
+C:\Users\Alumnos\Documents\checho\checho\Trabajo_Parcial_\Trabajo_Parcial_\bin\Debug\Trabajo_Parcial_.pdb
+C:\Users\Alumnos\Documents\checho\checho\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.csprojResolveAssemblyReference.cache
+C:\Users\Alumnos\Documents\checho\checho\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.Form1.resources
+C:\Users\Alumnos\Documents\checho\checho\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.frm_Actualizar_lista.resources
+C:\Users\Alumnos\Documents\checho\checho\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.frm_Agregar_cliente.resources
+C:\Users\Alumnos\Documents\checho\checho\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.frm_Inicio_sesion.resources
+C:\Users\Alumnos\Documents\checho\checho\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.frm_Inicio_sesion_cliente.resources
+C:\Users\Alumnos\Documents\checho\checho\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.frm_Lista_productos.resources
+C:\Users\Alumnos\Documents\checho\checho\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.frm_Pedidos_clientes.resources
+C:\Users\Alumnos\Documents\checho\checho\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.frm_Sesion_Administrador.resources
+C:\Users\Alumnos\Documents\checho\checho\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.frm_Sesion_Usuario.resources
+C:\Users\Alumnos\Documents\checho\checho\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.Properties.Resources.resources
+C:\Users\Alumnos\Documents\checho\checho\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.csproj.GenerateResource.Cache
+C:\Users\Alumnos\Documents\CHECHO\Verdion 1.0.2\Trabajo_Parcial_\Trabajo_Parcial_\bin\Debug\Trabajo_Parcial_.exe.config
+C:\Users\Alumnos\Documents\CHECHO\Verdion 1.0.2\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.exe
+C:\Users\Alumnos\Documents\CHECHO\Verdion 1.0.2\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.pdb
+C:\Users\Alumnos\Documents\CHECHO\Verdion 1.0.2\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.csprojResolveAssemblyReference.cache
+C:\Users\Alumnos\Documents\CHECHO\Verdion 1.0.2\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.Form1.resources
+C:\Users\Alumnos\Documents\CHECHO\Verdion 1.0.2\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.frm_Actualizar_lista.resources
+C:\Users\Alumnos\Documents\CHECHO\Verdion 1.0.2\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.frm_Agregar_cliente.resources
+C:\Users\Alumnos\Documents\CHECHO\Verdion 1.0.2\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.frm_Inicio_sesion.resources
+C:\Users\Alumnos\Documents\CHECHO\Verdion 1.0.2\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.frm_Inicio_sesion_cliente.resources
+C:\Users\Alumnos\Documents\CHECHO\Verdion 1.0.2\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.frm_Lista_productos.resources
+C:\Users\Alumnos\Documents\CHECHO\Verdion 1.0.2\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.frm_Pedidos_clientes.resources
+C:\Users\Alumnos\Documents\CHECHO\Verdion 1.0.2\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.frm_Sesion_Administrador.resources
+C:\Users\Alumnos\Documents\CHECHO\Verdion 1.0.2\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.frm_Sesion_Usuario.resources
+C:\Users\Alumnos\Documents\CHECHO\Verdion 1.0.2\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.Properties.Resources.resources
+C:\Users\Alumnos\Documents\CHECHO\Verdion 1.0.2\Trabajo_Parcial_\Trabajo_Parcial_\obj\Debug\Trabajo_Parcial_.csproj.GenerateResource.Cache
+C:\Users\Alumnos\Documents\CHECHO\Verdion 1.0.2\Trabajo_Parcial_\Trabajo_Parcial_\bin\Debug\Trabajo_Parcial_.exe
+C:\Users\Alumnos\Documents\CHECHO\Verdion 1.0.2\Trabajo_Parcial_\Trabajo_Parcial_\bin\Debug\Trabajo_Parcial_.pdb
